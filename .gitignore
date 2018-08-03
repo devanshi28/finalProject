@@ -1,0 +1,6 @@
+# ignore data folder
+data/*
+# ignore resource folder
+resource/*
+#ignore literature folder
+literature/*
